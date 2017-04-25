@@ -1,0 +1,4 @@
+1. $ mvn dependency:tree
+2. $ mvn spring-boot:run   //for run project
+3. $ mvn clean package     //for create jar
+4. $ java -jar target/spring-boot-web-thymeleaf-1.0.jar     //for run jar
